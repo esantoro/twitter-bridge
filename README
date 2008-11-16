@@ -1,0 +1,11 @@
+		Twitter-Brige README
+
+Twitter-Brige is a small CGI script designed to be a bridge between any
+http-capable device and the Twitter portal.
+It was designed with low-bandwidth devices in mind.
+
+It's a pure Perl script and only depends on the Net:Twitter Perl moule.
+Homepage: http://manu92.netsons.org/fn/index.php?mod=TwitterBridge
+
+
+Emanuele Santoro <manu@santoro.tk>
